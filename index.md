@@ -1,9 +1,8 @@
 ---
 ---
 
-# Welcome to Dinglab of Tsinghua University
-
-
+# Welcome to Dinglab
+The Dinglab is a research group at Tsinghua University focused on AMO physics. The lab is particularly interested in Thorium 229, as well as other aspects relative to precision measurement.
 
 {% include section.html %}
 
