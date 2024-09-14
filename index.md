@@ -14,7 +14,7 @@ dingshq@mail.tsinghua.edu.cn
 
 {%
   include feature.html
-  image="images/ding.jpg"
+  image="images/ding.png"
   link="research"
   title="Shiqian Ding"
   text=text
