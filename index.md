@@ -7,7 +7,7 @@ The Dinglab is a research group at Tsinghua University focused on AMO physics. T
 {% capture text %}
 Prof. Shiqian Ding
 
-dingshq@mail.tsinghua.edu.cn
+E-mail: dingshq@mail.tsinghua.edu.cn
 
 [Google Scholar](https://scholar.google.com/citations?user=3yYcICQAAAAJ&hl=zh-CN&oi=ao/)
 {% endcapture %}
