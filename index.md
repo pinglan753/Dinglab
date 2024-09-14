@@ -26,7 +26,7 @@ E-mail: dingshq@mail.tsinghua.edu.cn
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Journal articles and students' theses in reversed chronological order.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A list of members that are currently in and have graduated from our group.
 
 {%
   include button.html
