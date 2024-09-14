@@ -1,7 +1,8 @@
 # site properties and page defaults
 title: Welcome to Dinglab of Tsinghua University
 subtitle: 
-description: 
+description: The Dinglab is a research group at the Physics Department of Tsinghua University focused on AMO physics. The lab is particularly interested in Thorium 229,
+as well as other research objects relative to AMO.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
