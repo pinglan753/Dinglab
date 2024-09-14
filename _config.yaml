@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: pinglan753DESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Welcome to Dinglab of Tsinghua University
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@pinglan753DESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: pinglan753DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: pinglan753DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: pinglan753DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: dingshq@mail.tsinghua.edu.cn
+  orcid: false
+  google-scholar: https://scholar.google.com/citations?user=3yYcICQAAAAJ&hl=zh-CN&oi=ao
+  github: false
+  twitter: false
+  youtube: false
 
 ### jekyll settings
 
