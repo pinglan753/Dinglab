@@ -1,5 +1,5 @@
 ---
-name: Hleb Penyazkou
+name: Gaowei Yan
 image: images/photo.jpg
 role: phd
 ---
